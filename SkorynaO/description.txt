@@ -1,0 +1,4 @@
+provider_id
+state
+total_episodes_non_lupa
+total_hha_charge_amount_non_lupa
